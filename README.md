@@ -2,7 +2,7 @@
 # Concept Page 💫  
 A dedicated page that serves as a comprehensive resource for understanding and engaging with the course materials and projects in Alx. This page typically includes explanations, overviews, and information about key concepts, Task exercises/projects, and related topics covered in the course. It is designed to offer guidance, context, and resources to help me learn, successfully complete projects and be a better engineer.  
   
-**NB:** This page is regularly updated, you can check back for subsequent concepts!
+**NB:** This page is regularly updated, you can check back for details to subsequent concepts!
 ## Tabe of contents🧠
 |Concepts|Context|
 |:-------:|:---------:|
