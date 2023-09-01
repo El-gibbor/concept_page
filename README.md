@@ -7,7 +7,7 @@ A dedicated page that serves as a comprehensive resource for understanding and e
 |Concepts|Context|
 |:-------:|:---------:|
 |[1. Source code management](https://github.com/El-gibbor/concept_page/tree/main#source-code-management)|organize code iterations chronologically|
-|2. Technical Questioning|Why/how to ask or answer|
+|[2. Technical Questioning](https://github.com/El-gibbor/concept_page/blob/main/README.md#2%EF%B8%8F%E2%83%A3-technical-questioning)|Why/how to ask or answer|
 |3. White-Boarding|Understand, flowchart, pseducode, optimise|
 |4. Test Driven Development| Never forget a Test (doc and unit testing)|
 |5. Documentation|Right-engineering, right-documenting|
