@@ -4,7 +4,7 @@ A dedicated page that serves as a comprehensive resource for understanding and e
 ## Tabe of contents🧠
 |Concepts|Context|
 |:-------:|:---------:|
-|Source code management|organize code iterations chronologically|
+|[Source code management](https://github.com/El-gibbor/concept_page/tree/main#source-code-management)|organize code iterations chronologically|
 |Technical Questioning|Why/how to ask or answer|
 |White-Boarding|Understand, flowchart, pseducode, optimise|
 |Test Driven Development| Never forget a Test (doc and unit testing)|
