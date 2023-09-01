@@ -1,4 +1,4 @@
-![images](https://github.com/El-gibbor/concept_page/assets/107848793/651b62b5-1d03-4883-b4de-067ac9a3a9c4)
+![Programming-Concepts-technology-gee](https://github.com/El-gibbor/concept_page/assets/107848793/579d6e5b-e83a-4ad6-9486-4511a7e33e2e)
 # Concept Page 💫  
 A dedicated page that serves as a comprehensive resource for understanding and engaging with the course materials and projects in Alx. This page typically includes explanations, overviews, and information about key concepts, Task exercises/projects, and related topics covered in the course. It is designed to offer guidance, context, and resources to help me learn, successfully complete projects and be a better engineer.  
 ## Tabe of contents🧠
