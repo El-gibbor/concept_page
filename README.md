@@ -20,7 +20,7 @@ Technical Writing|Articulate and share your Knowledge|
 |Simple Shell|Everything you need to know to start coding your own shell|
 |Malloc and Free|Automatic and Dynamic memory allocation|
 |Shell|Commands, Shorcuts, manpage|  
-# Source code management
+# 1️⃣ Source code management 
 What is source code management?  
 It allows a developer to organize code iterations chronologically, and version it for an application. The most powerful features of source code management systems are in how they allow teams of very diverse sizes to work together on the same application simultaneously.  
 ## Some terms that are common to all of them:  
