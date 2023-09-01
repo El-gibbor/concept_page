@@ -6,20 +6,20 @@ A dedicated page that serves as a comprehensive resource for understanding and e
 ## Tabe of contents🧠
 |Concepts|Context|
 |:-------:|:---------:|
-|[Source code management](https://github.com/El-gibbor/concept_page/tree/main#source-code-management)|organize code iterations chronologically|
-|Technical Questioning|Why/how to ask or answer|
-|White-Boarding|Understand, flowchart, pseducode, optimise|
-|Test Driven Development| Never forget a Test (doc and unit testing)|
-|Documentation|Right-engineering, right-documenting|
-|Alx Framework| How to approach and ace a project|
-Technical Writing|Articulate and share your Knowledge|
-|Resources|Python Programming|
-|Pair Programming|How to|
-|Data Structures| What are they & how to select the appropriate one|
-|Vagrant|installation, why and how to use it on your pc|
-|Simple Shell|Everything you need to know to start coding your own shell|
-|Malloc and Free|Automatic and Dynamic memory allocation|
-|Shell|Commands, Shorcuts, manpage|  
+|[1. Source code management](https://github.com/El-gibbor/concept_page/tree/main#source-code-management)|organize code iterations chronologically|
+|2. Technical Questioning|Why/how to ask or answer|
+|3. White-Boarding|Understand, flowchart, pseducode, optimise|
+|4. Test Driven Development| Never forget a Test (doc and unit testing)|
+|5. Documentation|Right-engineering, right-documenting|
+|6. Alx Framework| How to approach and ace a project|
+|7. Technical Writing|Articulate and share your Knowledge|
+|8. Resources|Python Programming|
+|9. Pair Programming|How to|
+|10.Data Structures| What are they & how to select the appropriate one|
+|11. Vagrant|installation, why and how to use it on your pc|
+|12. Simple Shell|Everything you need to know to start coding your own shell|
+|13. Malloc and Free|Automatic and Dynamic memory allocation|
+|14. Shell|Commands, Shorcuts, manpage|  
 # 1️⃣ Source code management 
 What is source code management?  
 It allows a developer to organize code iterations chronologically, and version it for an application. The most powerful features of source code management systems are in how they allow teams of very diverse sizes to work together on the same application simultaneously.  
