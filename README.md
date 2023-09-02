@@ -8,8 +8,8 @@ A dedicated page that serves as a comprehensive resource for understanding and e
 |:-------:|:---------:|
 |[1. Source code management](https://github.com/El-gibbor/concept_page/tree/main#source-code-management)|organize code iterations chronologically|
 |[2. Technical Questioning](https://github.com/El-gibbor/concept_page/blob/main/README.md#2%EF%B8%8F%E2%83%A3-technical-questioning)|Why/how to ask or answer|
-|3. White-Boarding|Understand, flowchart, pseducode, optimise|
-|4. Test Driven Development| Never forget a Test (doc and unit testing)|
+|[3. White-Boarding](https://github.com/El-gibbor/concept_page/blob/main/README.md#3%EF%B8%8F%E2%83%A3-white-boarding)|Understand, flowchart, pseducode, optimise|
+|[4. Test Driven Development](https://github.com/El-gibbor/concept_page/blob/main/README.md#4%EF%B8%8F%E2%83%A3-never-forget-a-test)| Never forget a Test (doc and unit testing)|
 |5. Documentation|Right-engineering, right-documenting|
 |6. Alx Framework| How to approach and ace a project|
 |7. Technical Writing|Articulate and share your Knowledge|
