@@ -21,7 +21,7 @@ A dedicated page that serves as a comprehensive resource for understanding and e
 |13. Malloc and Free|Automatic and Dynamic memory allocation|
 |14. Shell|Commands, Shorcuts, manpage|  
   
-=========================================================================================  
+  
 # 1️⃣ Source code management 
 What is source code management?  
 It allows a developer to organize code iterations chronologically, and version it for an application. The most powerful features of source code management systems are in how they allow teams of very diverse sizes to work together on the same application simultaneously.  
@@ -113,8 +113,7 @@ GitHub has many competitors, two of the main ones being GitLab and BitBucket (wh
 [Learning git branching](https://intranet.alxswe.com/rltoken/OAvUt-4nF_R3xb_cC20fqw) - Practice with a game  
 [Successful git branching model](https://intranet.alxswe.com/rltoken/Xv4OUmdgaAqZc6xNIbj5Qw) - once you master the technical tool, you have many ways to organize your branches according to your project. This very notorious article from 2010 introduces git-flow , a detailed proposal for organizing collective work with Git that is still the most common today. You should talk about that each time you start a collaborative project using Git.  
 http://semver.org: - now that you can give version numbers to your code iterations, how should you number them? Semantic versioning is the most used versioning scheme.  
-
-=========================================================================================  
+  
 # 2️⃣ Technical Questioning   
 Being a software engineer means constant learning and questioning. Whether you’re a newbie developer or an experienced one, you are bound to find yourself banging your head against a wall, trying to figure out why the program you just wrote is not working the way you want.  
 To become a better developer, there are two essential skills you need:  
@@ -133,8 +132,7 @@ To become a better developer, there are two essential skills you need:
 ## Why you should ask and answer technical questions  
 - **You learn how to ask questions:** A well-crafted question that ignites a helpful discussion and uncovers brilliant answers is often rated as highly as the best-given answer.  
 - **You will gain a better understanding of the problem:** when you pose a question, you will be asked to think and explain your reasoning. As a result, you will examine and assess your issue while asking questions, which may lead to you discovering the solution.  
-- **You learn by answering questions:** Explaining something that you already know to others makes your knowledge stronger and often uncovers new knowledge. When you write an answer to a question, you try to make it as clear and comprehensive as possible. Because of this attention to detail, you will often get back to something you did not pay initial attention to, totally forgot, or never knew in the first place.  
-=========================================================================================   
+- **You learn by answering questions:** Explaining something that you already know to others makes your knowledge stronger and often uncovers new knowledge. When you write an answer to a question, you try to make it as clear and comprehensive as possible. Because of this attention to detail, you will often get back to something you did not pay initial attention to, totally forgot, or never knew in the first place.   
 # 3️⃣ White boarding  
 In real-world projects, your brain should be able to write a quick efficient solution for complicated stuff and you can only do that when you practice a lot of coding questions. Understand that language and frameworks are just tools, they won’t teach you problem-solving skills. You develop problem-solving skills when you practice a lot of coding questions.  
   
@@ -152,9 +150,7 @@ Before you jump into the solution it’s always good to write pseudocode for you
   
 The point where you started * Where are you right now? * What is your destination (end result)?  
 ## Step 6: Simplify and Optimize your Code  
-Always try to improve your code. Look back, analyze it once again and try to find a better or alternate solution. We have mentioned earlier that you should always try to write the right amount of good code so always look for the alternate solution which is more efficient than the previous one. Writing the correct solution to your problem is not the final thing you should do. Explore the problem completely with all possible solutions and then write down the most efficient or optimized solution for your code. So once you are done with writing the solution for your code below are some questions you should ask yourself.  
-
-=========================================================================================  
+Always try to improve your code. Look back, analyze it once again and try to find a better or alternate solution. We have mentioned earlier that you should always try to write the right amount of good code so always look for the alternate solution which is more efficient than the previous one. Writing the correct solution to your problem is not the final thing you should do. Explore the problem completely with all possible solutions and then write down the most efficient or optimized solution for your code. So once you are done with writing the solution for your code below are some questions you should ask yourself.    
 # 4️⃣ Never forget a test  
 Testing is the process of evaluating a system or its component(s) with the intent to find whether it satisfies the specified requirements or not. Testing is executing a system in order to identify any gaps, errors, or missing requirements contrary to the actual requirements. This tutorial will give you a basic understanding of software testing, its types, methods, levels, and other related terminologies.  
   
@@ -350,4 +346,3 @@ Furthermore, test cases are written to keep track of the testing coverage of a s
   
 Many test cases can be derived from a single test scenario. In addition, sometimes multiple test cases are written for a single software which are collectively known as test suites.  
 
-=========================================================================================  
