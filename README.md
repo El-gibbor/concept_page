@@ -348,4 +348,6 @@ Furthermore, test cases are written to keep track of the testing coverage of a s
 - Actual outcome  
 - Post-conditions
   
-Many test cases can be derived from a single test scenario. In addition, sometimes multiple test cases are written for a single software which are collectively known as test suites.
+Many test cases can be derived from a single test scenario. In addition, sometimes multiple test cases are written for a single software which are collectively known as test suites.  
+
+=========================================================================================  
